@@ -23,7 +23,7 @@ Application with GUI with possibility to choose:
 - preparing algorithms solving and checking correctness of given sudoku board
 - testing the foregoing algorithms
 - constructing application's frontend
-- in case of occuring a problem we were discussing it together
+- in case of a problem we were discussing it together
 
 ## Conclusion
 **Used or tested libraries:**
