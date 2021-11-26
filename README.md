@@ -11,6 +11,11 @@ Creating your own map of sudoku is also possible
 
 ![sudoku_created](https://user-images.githubusercontent.com/72568092/121086179-1e9c5e80-c7e3-11eb-8bb2-b0554449b4f9.jpg)
 
+## Needed
+- easyocr, opencv
+- kivy, kivy_garden with xcamera
+- numpy
+
 ## Description
 
 Application with GUI with possibility to choose:
